@@ -2,6 +2,10 @@
 
 > CRUD with Vue and Firebase
 
+## You'd add firebase config by yourself under the src firectory
+I simply removed my firebase.js when I committing this repo.
+please add firebase config js file if you try to use this source.
+
 ## Build Setup
 
 ``` bash
